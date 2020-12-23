@@ -51,7 +51,7 @@ define(['mob', 'timer'], function(Mob, Timer) {
             init: function(id) {
                 this._super(id, Types.Entities.DEATHKNIGHT);
                 this.atkSpeed = 50;
-                this.moveSpeed = 220;
+                this.moveSpeed = 190;
                 this.walkSpeed = 100;
                 this.idleSpeed = 450;
                 this.setAttackRate(800);

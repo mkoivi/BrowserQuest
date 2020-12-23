@@ -9,26 +9,19 @@ define(['character'], function(Character) {
         ],
 
         "king": [
-            "Hi, I'm the King",
-            "I run this place",
-            "Like a boss",
-            "I talk to people",
-            "Like a boss",
-            "I wear a crown",
-            "Like a boss",
-            "I do nothing all day",
-            "Like a boss",
-            "Now leave me alone",
-            "Like a boss"
+            "HOU HOU HOU",
+            "HYVÄÄ JOULUA OSKARI JA KAIKKI",
+            "OLET ANSAINNUT JOULULAHJAN",
+            "SÄÄSTÄ NINTENDOON",
+            "VOIT AVATA TAIKALAATIKON KOODILLA",
+            "2021"
         ],
 
         "villagegirl": [
-            "Hi there, adventurer!",
-            "How do you like this game?",
-            "It's all happening in a single web page! Isn't it crazy?",
-            "It's all made possible thanks to WebSockets.",
-            "I don't know much about it, after all I'm just a program.",
-            'Why don&#x27;t you read this <a target="_blank" href="http://hacks.mozilla.org/2012/03/browserquest/">blog post</a> and learn all about it?'
+            "Nuo rotat iljettää mua",
+            "huiroppa niitä tuolla miekalla pois täältä",
+            "ja mene sitten ettimään joulupukkia",
+            "se on tuolla alhaalla"
         ],
 
         "villager": [
@@ -42,10 +35,13 @@ define(['character'], function(Character) {
         ],
 
         "agent": [
-            "Do not try to bend the sword",
-            "That's impossible",
-            "Instead, only try to realize the truth...",
-            "There is no sword."
+            "Kuuleppas",
+            "kerron salaisuuden",
+            "sitä ei kukaan tiedä",
+            "jännittääkö",
+            "tuolla ylempänä oikealla talossa on paha monsteri",
+            "älä mene sinne",
+            "tai mene jos ei hirvitä"
         ],
 
         "rick": [
@@ -65,13 +61,12 @@ define(['character'], function(Character) {
 
         "scientist": [{
 			"text": [//default
-				"Greetings.",
-				"I am the inventor of these two potions.",
-				"The red one will replenish your health points...",
-				"The orange one will turn you into a firefox and make you invincible...",
-				"But it only lasts for a short while.",
-				"So make good use of it!",
-				"Now if you'll excuse me, I need to get back to my experiments..."
+				"Päivää",
+				"Oon hullu keksijä",
+                "Tässä on kaksi pulloa",
+                "Punaisesta saa lisää voimaa",
+                "Keltaisesta tulee kummallinen kettupuku",
+                "ja muutut vahingoittumattomaksi"
 			]},
 			{"condition": function(game){return (game.player.invincible);},
 			 "text": [
@@ -121,42 +116,35 @@ define(['character'], function(Character) {
         ],
 
         "priest": [
-            "Oh, hello, young man.",
-            "Wisdom is everything, so I'll share a few guidelines with you.",
-            "You are free to go wherever you like in this world",
-            "but beware of the many foes that await you.",
-            "You can find many weapons and armors by killing enemies.",
-            "The tougher the enemy, the higher the potential rewards.",
-            "You can also unlock achievements by exploring and hunting.",
-            "Click on the small cup icon to see a list of all the achievements.",
-            "Please stay a while and enjoy the many surprises of BrowserQuest",
-            "Farewell, young friend."
+          "Sun tehtäväsi on löytää joulupukki",
+          "viisas Raimo-paappa tietää missä se on",
+          "paappa on tuolla alhaalla"
         ],
 
         "sorcerer": [
-            "Ah... I had foreseen you would come to see me.",
-            "Well? How do you like my new staff?",
-            "Pretty cool, eh?",
-            "Where did I get it, you ask?",
-            "I understand. It's easy to get envious.",
-            "I actually crafted it myself, using my mad wizard skills.",
-            "But let me tell you one thing...",
-            "There are lots of items in this game.",
-            "Some more powerful than others.",
-            "In order to find them, exploration is key.",
-            "Good luck."
+            "Mitäs Oskari!", 
+            "olen viisas Raimo-paappa",  
+            "Sun kuule pitäis löytää joulupukki",
+            "se asuu Korvatunturilla",
+            "Korvatunturilla on laavaa ja hirviöitä",
+            "sun täytyy mennä ylöspäin kenttää tosi pitkälle",
+            "ja hankkia kunnon ase ja haarniska",
+            "muuten käy kuule hassusti"
         ],
 
         "octocat": [
-            "Welcome to BrowserQuest!",
-            "Want to see the source code?",
-            'Check out <a target="_blank" href="http://github.com/browserquest/BrowserQuest">the repository on GitHub</a>'
-        ],
+            "Hau",
+            "Olen Huima-koira",
+            "Raimo-paappa taikoi mulle naaman",
+            "ja osaan puhua",
+            "paappa on tuolla alhaalla",
+            "sillä on keppi jolla se taikoo", 
+            "ja punainen angry birds-huppari"
+            ],
 
         "coder": [
-            "Hi! Do you know that you can also play BrowserQuest on your tablet or mobile?",
-            "That's the beauty of HTML5!",
-            "Give it a try..."
+            "Pelaan täällä jouluna",
+            "ei oo muuta tekemistä"
         ],
 
         "beachnpc": [

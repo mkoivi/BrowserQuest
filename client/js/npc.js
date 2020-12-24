@@ -19,9 +19,8 @@ define(['character'], function(Character) {
 
         "villagegirl": [
             "Nuo rotat iljettää mua",
-            "huiroppa niitä tuolla miekalla pois täältä",
-            "ja mene sitten ettimään Raimo-paappaa",
-            "se on tuolla alhaalla"
+            "huiroppa niitä tuolla miekalla pois täältä"
+          
         ],
 
         "villager": [

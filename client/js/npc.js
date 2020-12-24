@@ -20,7 +20,7 @@ define(['character'], function(Character) {
         "villagegirl": [
             "Nuo rotat iljettää mua",
             "huiroppa niitä tuolla miekalla pois täältä",
-            "ja mene sitten ettimään joulupukkia",
+            "ja mene sitten ettimään Raimo-paappaa",
             "se on tuolla alhaalla"
         ],
 
@@ -41,7 +41,8 @@ define(['character'], function(Character) {
             "jännittääkö",
             "tuolla ylempänä oikealla talossa on paha monsteri",
             "älä mene sinne",
-            "tai mene jos ei hirvitä"
+            "tai mene jos ei hirvitä",
+            "ha haa"
         ],
 
         "rick": [
@@ -116,6 +117,7 @@ define(['character'], function(Character) {
         ],
 
         "priest": [
+            "Hei *name*",
           "Sun tehtäväsi on löytää joulupukki",
           "viisas Raimo-paappa tietää missä se on",
           "paappa on tuolla alhaalla"
